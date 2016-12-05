@@ -1,2 +1,13 @@
 *.class
 /target
+src/.DS_Store
+
+src/main/.DS_Store
+
+src/main/webapp/.DS_Store
+
+src/main/webapp/WEB-INF/.DS_Store
+
+src/main/.DS_Store
+
+src/main/.DS_Store
